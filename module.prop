@@ -1,0 +1,6 @@
+id=AutoADBShell
+name=启动需要 ADB 的软件
+version=V0.1
+versionCode=4
+author=Github@k0baya
+description=开机第一次解锁屏幕后，自动启动 Scene 的 ADB 模式和黑阈、Shizuku 等需要 ADB 启动的 APP。感谢 Github@iamr0s 提供的锁屏状态检测
